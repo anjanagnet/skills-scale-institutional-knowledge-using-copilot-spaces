@@ -75,7 +75,72 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+Responsible for user experience strategy, research, prototyping, and design validation.
+
+### Responsibilities
+- Conduct user research and gather feedback
+- Design wireframes, prototypes, and final screens
+- Validate usability and accessibility standards
+- Document and advocate for design consistency
+
+### Interactions
+- Collaborates with PdM for user stories/goals
+- Consults Developers on feasibility and integration
+- Informs QA on test scenarios and acceptance criteria
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Owns CI/CD automation, infrastructure management, and deployment operations.
+
+### Responsibilities
+- Implement and monitor automated pipelines
+- Manage releases, rollbacks, and incident response
+- Oversee infrastructure reliability and performance
+
+### Interactions
+- Coordinates with Developers and QA for release quality
+- Works with PM for risk and timeline management
+
+---
+
+## Support Lead
+
+### Role Summary
+Handles customer support interactions, incident triage, and communication feedback loops.
+
+### Responsibilities
+- Track, triage, and resolve customer support issues
+- Collect insights to inform product improvement
+- Communicate incident status and updates
+
+### Interactions
+- Works with PM/PdM for prioritization and escalation
+- Feeds insights into retrospectives and planning
+
+---
+
+## Security Lead
+
+### Role Summary
+Ensures security practices are embedded in all workflows, and manages risk and incident response.
+
+### Responsibilities
+- Conduct security assessments and vulnerability scans
+- Develop and maintain security playbooks
+- Drive post-incident analysis and reporting
+
+### Interactions
+- Works with DevOps and QA for secure deployments
+- Keeps PM/PdM updated on risks and mitigation
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
